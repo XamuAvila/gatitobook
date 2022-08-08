@@ -10,6 +10,6 @@ import { ListaAnimaisComponent } from './lista-animais/lista-animais.component';
   imports: [
     CommonModule,
     AnimaisRoutingModule
-  ]
+  ],
 })
 export class AnimaisModule { }
